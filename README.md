@@ -1,3 +1,3 @@
 ## RRBlog
-RRBlog it is a simple blog template based on ReactJs and ReduxJs.
+RRBlog is a simple blog web application based on ReactJs and ReduxJs.
 
